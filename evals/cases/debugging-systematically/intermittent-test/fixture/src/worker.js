@@ -2,5 +2,5 @@
 export async function makeThumbnail(name) {
   const latency = 5 + Math.floor(Math.random() * 50);
   await new Promise((resolve) => setTimeout(resolve, latency));
-  return `${name}.thumb.png`;
+  return name + '.thumb.png';
 }
