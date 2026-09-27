@@ -1,0 +1,16 @@
+{
+  "name": "tackle-dev",
+  "description": "Development marketplace for the Tackle skill framework",
+  "owner": {
+    "name": "MorganOnGitHub",
+    "url": "https://github.com/MorganOnGitHub"
+  },
+  "plugins": [
+    {
+      "name": "tackle",
+      "description": "A superpowers-inspired skill framework: proportionate design, planning, testing, debugging, review and verification skills for coding agents",
+      "version": "0.1.0",
+      "source": "./"
+    }
+  ]
+}

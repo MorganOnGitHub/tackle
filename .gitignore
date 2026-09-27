@@ -1,0 +1,7 @@
+node_modules/
+evals/results/
+
+# OS cruft, which the plugin directory rejects if it reaches the repo
+.DS_Store
+Thumbs.db
+desktop.ini
