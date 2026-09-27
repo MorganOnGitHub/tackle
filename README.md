@@ -1,6 +1,6 @@
 # Tackle
 
-**All the discipline of superpowers, with none of the drill sergeant.**
+**All the discipline of superpowers, with none of the song and dance.**
 
 Tackle is a skill framework for coding agents. It gives your agent the habits of a senior engineer: shaping designs, planning, test-first development, root-cause debugging, subagent delegation, code review, and refusing to say "done" without proof. What sets it apart is judgment. A typo gets fixed, a new subsystem gets a design, and Tackle can tell which is which.
 
