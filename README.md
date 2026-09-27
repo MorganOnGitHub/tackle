@@ -175,6 +175,14 @@ evals/cases/<skill>/     prompt, fixture repo, automated check and grading crite
 evals/scenarios.md       should-apply and should-not-apply scenario for every skill
 ```
 
+## Support
+
+Questions, bugs and security concerns go to [GitHub Issues](https://github.com/MorganOnGitHub/tackle/issues).
+
+If a skill fires when it shouldn't, or stays quiet when it should, that's a bug worth reporting — include the prompt you used and which agent you were running, and it becomes an eval case.
+
+Tackle collects no data; see [PRIVACY.md](PRIVACY.md).
+
 ## Contributing a skill
 
 Use the `writing-skills` skill. In short: start from a failure you've actually seen, describe *when* to use the skill (not what it does), follow the template, and stay under 500 words.

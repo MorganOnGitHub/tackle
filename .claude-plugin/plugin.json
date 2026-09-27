@@ -8,6 +8,9 @@
   },
   "homepage": "https://github.com/MorganOnGitHub/tackle",
   "repository": "https://github.com/MorganOnGitHub/tackle",
+  "documentationUrl": "https://github.com/MorganOnGitHub/tackle#readme",
+  "supportUrl": "https://github.com/MorganOnGitHub/tackle/issues",
+  "privacyPolicyUrl": "https://github.com/MorganOnGitHub/tackle/blob/main/PRIVACY.md",
   "license": "MIT",
   "keywords": ["skills", "workflow", "testing", "debugging", "review", "planning"]
 }
